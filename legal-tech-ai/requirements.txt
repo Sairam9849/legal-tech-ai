@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+agno
+chromadb
+pdfplumber
+pymupdf
+python-dotenv
+requests
